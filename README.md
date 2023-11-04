@@ -2,7 +2,7 @@
 
 [![laphayen's github stats](https://github-readme-stats.vercel.app/api?username=laphayen&count_private=true)](https://github.com/laphayen/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laphayen&hide=javascript,html,perl,css,makefile)](https://github.com/laphayen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laphayen&hide=html,perl,css,makefile)](https://github.com/laphayen/github-readme-stats)
 
 <!--
 **laphayen/laphayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
