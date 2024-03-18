@@ -21,13 +21,13 @@
   
   <br>
   
-  <h3>Development Environment and Productivity</h3>
+  <h3>Development Environment & Productivity</h3>
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   
   <br>
   
-  <h3>Database and Data Streaming Platforms</h3>
+  <h3>Database & Data Streaming Platforms</h3>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/h2-0068FF?style=for-the-badge&logo=h2&logoColor=white">
@@ -39,12 +39,12 @@
   <img src="https://img.shields.io/badge/junit5-2325A162?style=for-the-badge&logo=junit5&logoColor=white">
 
   <br>
-  <h3>Cloud and Communication</h3>
+  <h3>Cloud & Communication</h3>
   <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
   
   <br>
   
-  <h3>Deployment and Configuration Management</h3>
+  <h3>Deployment & Configuration Management</h3>
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
