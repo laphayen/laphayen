@@ -8,6 +8,7 @@
   <h1>CERTIFICATE</h1>
   <h3>Craftsman Information Processing</h3>
   <h3>Craftsman Information Equipment Operation</h3>
+  <h3>SQLD(SQL Developer)</h3>
   <h3>The Test of "Word Processor User"</h3>
 
 * * *
