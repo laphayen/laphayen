@@ -2,6 +2,14 @@
 #### <center>전문가가 되고 싶어 최고의 열정으로 노력하는 백기찬입니다.</center>
 [![laphayen's github stats](https://github-readme-stats.vercel.app/api?username=laphayen&count_private=true)](https://github.com/laphayen/github-readme-stats)
 
+* * * 
+<div align=center>
+  <br>
+  <h1>CERTIFICATE</h1>
+  <h3>Craftsman Information Processing</h3>
+  <h3>Craftsman Information Equipment Operation</h3>
+  <h3>The Test of "Word Processor User"</h3>
+
 * * *
 
 <br>
