@@ -2,18 +2,9 @@
 #### <center>전문가가 되고 싶어 최고의 열정으로 노력하는 백기찬입니다.</center>
 [![laphayen's github stats](https://github-readme-stats.vercel.app/api?username=laphayen&count_private=true)](https://github.com/laphayen/github-readme-stats)
 
-* * * 
-<div align=center>
-  <br>
-  <h1>CERTIFICATE</h1>
-  <h3>Craftsman Information Processing</h3>
-  <h3>Craftsman Information Equipment Operation</h3>
-  <h3>SQLD(SQL Developer)</h3>
-  <h3>The Test of "Word Processor User"</h3>
+<br>
 
 * * *
-
-<br>
 
 <div align=center>
   <br>
@@ -36,6 +27,7 @@
   <h3>Development Environment & Productivity</h3>
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
   <br>
   
@@ -73,6 +65,13 @@
 
 * * *
 
+<div align=center>
+  <br>
+  <h1>CERTIFICATE</h1>
+  <h3>Craftsman Information Processing</h3>
+  <h3>Craftsman Information Equipment Operation</h3>
+  <h3>SQLD(SQL Developer)</h3>
+  <h3>The Test of "Word Processor User"</h3>
 
 
 
