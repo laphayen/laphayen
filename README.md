@@ -1,7 +1,6 @@
 #### <center>안녕하세요.</center>
 #### <center>전문가가 되고 싶어 최고의 열정으로 노력하는 백기찬입니다.</center>
-[![laphayen's github stats](https://github-readme-stats.vercel.app/api?username=laphayen&count_private=true)](https://github.com/laphayen/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=laphayen)](https://solved.ac/laphayen/)
+[![laphayen's github stats](https://github-readme-stats.vercel.app/api?username=laphayen&count_private=true)](https://github.com/laphayen/github-readme-stats&count_private=true)
 
 <br>
 
